@@ -1,1 +1,1 @@
- a script that duplicates the last line of the file iacta
+script that displays the 10 newest files in the current directory.
